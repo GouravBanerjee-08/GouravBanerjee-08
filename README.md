@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gourav Banerjee(You can call me Lucifer)
-- 👀 I’m interested in C,C++, Java, Python
+- 👀 I’m interested in C, Java, Python
 - 🌱 I’m currently learning Python
 - 📫 If you wanna reach me then mail me at gouravbanerjee08082000@gmail.com 
 
